@@ -1,0 +1,5 @@
+webhook:
+  name: John Doe
+  regNo: REG12347
+  email: john@example.com
+  finalQuery: SELECT name FROM students WHERE marks > 75
