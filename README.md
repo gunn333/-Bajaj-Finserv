@@ -1,4 +1,4 @@
-# WebhookClient 🚀
+# BAJAJ FIMSERV (QUALIFIER ROUND 1)
 
 A Spring Boot app that:
 - Registers a webhook on startup
